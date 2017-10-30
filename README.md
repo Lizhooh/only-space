@@ -4,6 +4,10 @@
 为中文与英文之间保留一个空格，保持美观感。
 Keep a space between Chinese and English, keep the sense of beauty.
 
+<a href="https://www.npmjs.com/package/only-space"><img src="https://img.shields.io/npm/v/only-space.svg?style=flat-square"></a>
+<a href="https://www.npmjs.com/package/only-space"><img src="https://img.shields.io/npm/dm/react-static-view.svg?style=flat-square"></a>
+
+
 ### install
 
 ```bash
