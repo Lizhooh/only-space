@@ -1,0 +1,28 @@
+{
+  "name": "only-space",
+  "version": "1.0.0",
+  "description": "Keep a space between Chinese and English, keep the sense of beauty",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "add",
+    "add-space",
+    "only",
+    "only-space",
+    "space",
+    "chinese",
+    "english",
+    "string"
+  ],
+  "author": "lizhooh",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
