@@ -6,6 +6,8 @@
  * @return{String}
  */
 module.exports = function (data) {
+    if (typeof data !== 'string') data += '';
+
     const reg = /([\u4e00-\u9fff,])?([a-zA-Z0-9 \.\-\(\)\+\[\]\{\}\!\@\#\$\%\^\&\*\\]+)([\u4e00-\u9fff])?/g;
     return data.replace(reg, (match, $1, $2, $3) => {
         let str = '';
